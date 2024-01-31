@@ -60,8 +60,8 @@ export class GlobalNav extends React.Component {
     const { navItems = [] } = this.props;
 
     const drawerStyle = {
-      top: '40px',
-      height: 'calc(100% - 40px)',
+      top: '60px',
+      height: 'calc(100% - 60px)',
     };
 
     return (
